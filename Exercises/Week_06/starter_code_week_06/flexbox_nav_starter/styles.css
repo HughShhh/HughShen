@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+}
+
+ul.flex-container {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  background-color:blue;
+  line-height: 60px;
+}
+
+a {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
